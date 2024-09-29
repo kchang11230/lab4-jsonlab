@@ -1,0 +1,58 @@
+{
+    "userProfiles":[
+        {
+            "firstName":"Cheng",
+            "lastName":"Liu",
+            "email":"2222@qq.com",
+            "dateOfBirth":"12/15/2004",
+            "preference":{
+                "theme":"dark",
+                "language":"Chinese",
+                "notification":false,
+                "subscription":true
+            },
+            "address":{
+                "street":"Xinhua Road",
+                "city":"Beijing",
+                "state":"Beijing",
+                "zipCode":"100000"
+            }
+        },
+        {
+            "firstName":"Mark",
+            "lastName":"Lee",
+            "email":"1111@qq.com",
+            "dateOfBirth":"2/4/1999",
+            "preference":{
+                "theme":"dark",
+                "language":"English",
+                "notification":false,
+                "subscription":false
+            },
+            "address":{
+                "street":"Nanjing Road",
+                "city":"Shanghai",
+                "state":"Shanghai",
+                "zipCode":"200000"
+            }
+        },
+        {
+            "firstName":"Jack",
+            "lastName":"Smith",
+            "email":"3333@qq.com",
+            "dateOfBirth":"10/19/2000",
+            "preference":{
+                "theme":"light",
+                "language":"English",
+                "notification":true,
+                "subscription":true
+            },
+            "address":{
+                "street":"Shenzhen Road",
+                "city":"Shenzhen",
+                "state":"Guangdong",
+                "zipCode":"300000"
+            }
+        }
+    ]
+}
